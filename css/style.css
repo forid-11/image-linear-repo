@@ -1,0 +1,15 @@
+.bg-banner {
+    background-image: linear-gradient(to left, rgba(126, 125, 125, 0.636), rgba(125, 122, 122, 0.536)), url('../images/forid-2.jpeg');
+    background-size: cover;
+    height: 400px;
+    width: 70%;
+    margin: auto;
+}
+
+.title {
+    color: #FFF8F3;
+    font-weight: 700;
+    font-size: 50px;
+    text-align: center;
+    padding-top: 15%;
+}
